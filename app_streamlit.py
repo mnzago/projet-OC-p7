@@ -11,7 +11,7 @@ import shap
 from streamlit_shap import st_shap
 import matplotlib.pyplot as plt
 
-URL = "https://test-projet-v0.herokuapp.com"
+URL = "https://projet-OC-p7.herokuapp.com"
 
 st.set_page_config(page_title="Prêt à dépenser", page_icon=":credit_card:", layout="wide")
 
